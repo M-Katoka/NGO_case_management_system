@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 NGO Case Management Information System (CMIS)
 
 A robust, web-based Case Management Information System designed for non-governmental organizations (NGOs) to efficiently track, manage, and report on client cases, support services, and social interventions.
